@@ -4,8 +4,8 @@
 | Roll Number | Name                     |
 |-------------|--------------------------|
 | 2410030288  | Chittepu Pallavi Reddy   |
-| 2410030289  | Krishnasri               |
-| 2410030385  | Bhavya Sri               |
+| 2410030289  | Pandula  Krishnasri      |
+| 2410030385  |  Mididoddi Bhavya Sri    |
 
 ---
 
