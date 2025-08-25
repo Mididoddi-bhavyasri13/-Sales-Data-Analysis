@@ -35,14 +35,14 @@ By integrating advanced analytics with interactive dashboards, the system will e
    *Techniques:* Clustering (K-Means), Association Rule Mining  
 
 3. 🎯 **Sales Performance Analysis**  
-   Evaluates KPIs such as revenue growth, profit margins, regional sales, and customer retention.  
+   Evaluates Key Performance Indicator such as revenue growth, profit margins, regional sales, and customer retention.  
 
 ---
 
 ## 🛠️ Tech Stack
 - **ML Libraries:** scikit-learn, pandas, NumPy, TensorFlow / Keras  
-- **Visualization:** Matplotlib, Seaborn, Power BI / Tableau  
-- **Tools:** Python, Jupyter Notebook, GitHub  
+- **Visualization:** Matplotlib, Seaborn, Power BI 
+- **Tools:** Python, VS Code, GitHub  
 
 ---
 
